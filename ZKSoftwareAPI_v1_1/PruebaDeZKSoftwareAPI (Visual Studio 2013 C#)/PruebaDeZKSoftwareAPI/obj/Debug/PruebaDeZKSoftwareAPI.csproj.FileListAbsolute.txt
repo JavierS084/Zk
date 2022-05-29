@@ -1,0 +1,10 @@
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\bin\Debug\PruebaDeZKSoftwareAPI.exe
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\bin\Debug\PruebaDeZKSoftwareAPI.pdb
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\bin\Debug\ZKSoftwareAPI.dll
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\bin\Debug\Interop.zkemkeeper.dll
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\obj\Debug\PruebaDeZKSoftwareAPI.csprojResolveAssemblyReference.cache
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\obj\Debug\PruebaDeZKSoftwareAPI.Form1.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\obj\Debug\PruebaDeZKSoftwareAPI.Properties.Resources.resources
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\obj\Debug\PruebaDeZKSoftwareAPI.csproj.GenerateResource.Cache
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\obj\Debug\PruebaDeZKSoftwareAPI.exe
+c:\users\gabriel\documents\visual studio 2013\Projects\PruebaDeZKSoftwareAPI\PruebaDeZKSoftwareAPI\obj\Debug\PruebaDeZKSoftwareAPI.pdb
